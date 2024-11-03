@@ -32,5 +32,3 @@ php heeft een aantal math functies zoals
     Geef een random nummer tussen een x,x waarde,
     rand();
     <?php echo rand(0, 100); // geeft een random waarde tussen 0 en 100?>
-
-
