@@ -5,9 +5,8 @@ Dit is belangrijk om aan te geven dat het een variabele is. Hier is een lijst me
     <?php
         $s = "String"; 
     ?>
-
-
 Dit is een reeks tekst.
+
 Integer:
     <?php
         $i = 2;
@@ -20,13 +19,13 @@ Float:
     ?>
 
 Dit is een getal met een decimale waarde.
+
 Array:
     <?php
         $a = array("red", "blue", "green");
     ?>
-
-
 Een array is een lijst van waarden, zoals woorden of een combinatie van woorden en cijfers.
+
 Boolean:
     <?php    
         $b = true;

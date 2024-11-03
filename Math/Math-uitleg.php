@@ -1,4 +1,3 @@
-<!--
 Nu je de basis van nummers en strings weet gaan we beginnen met operators en rekenen
 
 Math:
@@ -34,8 +33,4 @@ php heeft een aantal math functies zoals
     rand();
     <?php echo rand(0, 100); // geeft een random waarde tussen 0 en 100?>
 
-
-
-
--->
 

@@ -10,8 +10,8 @@ Datatypes
 
 Variabelen in PHP kunnen verschillende soorten gegevens bevatten. Bijvoorbeeld:
     <?php
-    String: $x = "String";
-    Integer: $x = 2;
+    $x = "String"; // is een string
+     $x = 2; // is een integer
     ?>
 Je kunt de waarde van een variabele eenvoudig veranderen. Dus als je eerst een string hebt, kun je het ook veranderen in een integer:
     <?php
