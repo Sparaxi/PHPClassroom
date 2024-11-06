@@ -43,7 +43,6 @@ Php heeft ook 2 functies om te kijken of iets een float is:
     var_dump(is_double($b)); // false
     ?>
 beide functies zijn nutting voor typecontrole in php ze zullen je helpen om te bevestigen dat een waarde het verwachte type heeft.
-
 ook zijn er manieren om te kijken of het een integer is:
 dit kan je op meerdere manieren doen;
     <?php

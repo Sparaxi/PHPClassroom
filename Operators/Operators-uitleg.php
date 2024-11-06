@@ -2,7 +2,6 @@ Operators:
 
 Rekenkundige Operators
 Rekenkundige operators worden gebruikt voor eenvoudige wiskundige bewerkingen zoals optellen, aftrekken, vermenigvuldigen, delen en het vinden van de restwaarde
-
 <?php 
 $a = 2; 
 $b = 3;
@@ -12,7 +11,6 @@ echo $a - $b; // - Aftrekken
 echo $a * $b; // * Vermenigvuldigen
 echo $a / $b; // / Delen
 echo $a % $b; // % Modulus (restwaarde)
-
 ?>
 
 Assignment Operators
@@ -91,7 +89,7 @@ $array2 = ["a" => "apple", "b" => "banana", "c" => "cherry"];
 
 var_dump($array1 + $array2);   // + Unie: voegt arrays samen (zonder dubbele sleutels)
 var_dump($array1 == $array2);  // == Gelijk: true als $array1 en $array2 dezelfde sleutel/waarde-paren hebben
-var_dump($array1 === $array2); // === Identiek: true als $array1 en $array2 dezelfde sleutel/waarde-paren en in dezelfde volgorde hebben
+var_dump($array1 === $array2); // === Identiek: true als $array1 en $array2 dezelfde sleutel/waarde-paren en in dezelfde volgorde staan
 var_dump($array1 != $array2);  // != Niet gelijk
 var_dump($array1 <> $array2);  // <> Niet gelijk (zelfde als !=)
 var_dump($array1 !== $array2); // !== Niet identiek
